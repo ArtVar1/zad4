@@ -1,0 +1,11 @@
+package com.company;
+import java.util.Scanner;
+import static java.lang.Math.*;
+public class Main {
+    public static void main(String[] args) {
+        punkt pnt = new punkt(2, 6);
+        pnt.count_distance(5, 10);
+        punkt pnt2 = new punkt(5, 10);
+        pnt.count_distance(pnt2.x, pnt2.y);
+    }
+}
