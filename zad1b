@@ -1,0 +1,17 @@
+package com.company;
+import java.util.Scanner;
+import static java.lang.Math.*;
+public class Main {
+    public static void main(String[] args) {
+        int pole;
+            int circuit;
+            sqr(int a) {
+                this.pole = a;
+                this.circuit = a;
+            }
+            {
+                System.out.println("pole: " + this.pole * this.pole;
+            }
+                System.out.println("obw: " + this.circuit * 4);
+            }
+        }
